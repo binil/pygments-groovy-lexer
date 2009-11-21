@@ -1,3 +1,5 @@
+INSTALLATION:
+
 git clone git://github.com/binil/pygments-groovy-lexer.git
 cd pygments-groovy-lexer
 python setup.py install
